@@ -1,4 +1,5 @@
 <h2 align="left">Hi 👋! My name is Vivek Kumar Tiwari and I'm a Bachelor CSE Student, from IIT Patna</h2>
+<h2 align="left">Connect Me through my <a href="https://www.linkedin.com/in/vivek-kumar-tiwari-9806b2299">LinkedIn</a></h2>
 
 ###
 
