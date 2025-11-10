@@ -6,7 +6,7 @@
 
 <h1 align="center">👋 Hello World! I'm Vivek Kumar Tiwari</h1>
 
-<h3 align="center">💡 B.Tech CSE Student at IIT Patna | AI/ML & Full-Stack Development </h3>
+<h3 align="center">💡 Computer Science  Student at IIT Patna | AI/ML & Full-Stack Development </h3>
 
 <br>
 
